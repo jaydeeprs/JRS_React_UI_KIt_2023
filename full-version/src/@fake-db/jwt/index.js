@@ -13,7 +13,7 @@ const data = {
       username: 'jroysarkar',
       password: 'admin',
       avatar: avatar11,
-      email: 'admin@demo.com',
+      email: 'jroysarkaradmin@demo.com',
       role: 'admin',
       ability: [
         {
@@ -31,7 +31,7 @@ const data = {
       username: 'janedoe',
       password: 'client',
       avatar: avatar1,
-      email: 'client@demo.com',
+      email: 'jroysarkarclient@demo.com',
       role: 'client',
       ability: [
         {

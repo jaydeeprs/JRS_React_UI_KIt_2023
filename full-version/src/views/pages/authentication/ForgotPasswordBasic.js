@@ -64,7 +64,7 @@ const ForgotPasswordBasic = () => {
                   </g>
                 </g>
               </svg>
-              <h2 className='brand-text text-primary ms-1'>Vuexy</h2>
+              <h2 className='brand-text text-primary ms-1'>JRS</h2>
             </Link>
             <CardTitle tag='h4' className='mb-1'>
               Forgot Password? 🔒
@@ -77,7 +77,7 @@ const ForgotPasswordBasic = () => {
                 <Label className='form-label' for='login-email'>
                   Email
                 </Label>
-                <Input type='email' id='login-email' placeholder='john@example.com' autoFocus />
+                <Input type='email' id='login-email' placeholder='joysarkarbile143p@gmail.com' autoFocus />
               </div>
               <Button color='primary' block>
                 Send reset link

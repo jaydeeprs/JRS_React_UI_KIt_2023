@@ -78,7 +78,7 @@ const RegisterCover = () => {
               </g>
             </g>
           </svg>
-          <h2 className='brand-text text-primary ms-1'>Vuexy</h2>
+          <h2 className='brand-text text-primary ms-1'>JRS</h2>
         </Link>
         <Col className='d-none d-lg-flex align-items-center p-5' lg='8' sm='12'>
           <div className='w-100 d-lg-flex align-items-center justify-content-center px-5'>
@@ -102,7 +102,7 @@ const RegisterCover = () => {
                 <Label className='form-label' for='register-email'>
                   Email
                 </Label>
-                <Input type='email' id='register-email' placeholder='john@example.com' />
+                <Input type='email' id='register-email' placeholder='joysarkarbile143p@gmail.com' />
               </div>
               <div className='mb-1'>
                 <Label className='form-label' for='register-password'>

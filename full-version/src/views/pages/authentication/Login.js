@@ -58,7 +58,7 @@ const ToastContent = ({ t, name, role }) => {
           <h6>{name}</h6>
           <X size={12} className='cursor-pointer' onClick={() => toast.dismiss(t.id)} />
         </div>
-        <span>You have successfully logged in as an {role} user to Vuexy. Now you can start to explore. Enjoy!</span>
+        <span>You have successfully logged in as an {role} user to JRS. Now you can start to explore. Enjoy!</span>
       </div>
     </div>
   )
@@ -66,7 +66,7 @@ const ToastContent = ({ t, name, role }) => {
 
 const defaultValues = {
   password: 'admin',
-  loginEmail: 'admin@demo.com'
+  loginEmail: 'jroysarkaradmin@demo.com'
 }
 
 const Login = () => {
@@ -165,7 +165,7 @@ const Login = () => {
               </g>
             </g>
           </svg>
-          <h2 className='brand-text text-primary ms-1'>Vuexy</h2>
+          <h2 className='brand-text text-primary ms-1'>JRS</h2>
         </Link>
         <Col className='d-none d-lg-flex align-items-center p-5' lg='8' sm='12'>
           <div className='w-100 d-lg-flex align-items-center justify-content-center px-5'>
@@ -175,19 +175,19 @@ const Login = () => {
         <Col className='d-flex align-items-center auth-bg px-2 p-lg-5' lg='4' sm='12'>
           <Col className='px-xl-2 mx-auto' sm='8' md='6' lg='12'>
             <CardTitle tag='h2' className='fw-bold mb-1'>
-              Welcome to Vuexy! 👋
+              Welcome to JRS UI KIT! 👋
             </CardTitle>
             <CardText className='mb-2'>Please sign-in to your account and start the adventure</CardText>
             <Alert color='primary'>
               <div className='alert-body font-small-2'>
                 <p>
                   <small className='me-50'>
-                    <span className='fw-bold'>Admin:</span> admin@demo.com | admin
+                    <span className='fw-bold'>Admin:</span> jroysarkaradmin@demo.com | admin
                   </small>
                 </p>
                 <p>
                   <small className='me-50'>
-                    <span className='fw-bold'>Client:</span> client@demo.com | client
+                    <span className='fw-bold'>Client:</span> jroysarkarclient@demo.com | client
                   </small>
                 </p>
               </div>
@@ -214,7 +214,7 @@ const Login = () => {
                     <Input
                       autoFocus
                       type='email'
-                      placeholder='john@example.com'
+                      placeholder='joysarkarbile143p@gmail.com'
                       invalid={errors.loginEmail && true}
                       {...field}
                     />

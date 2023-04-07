@@ -68,7 +68,7 @@ const RegisterBasic = () => {
                   </g>
                 </g>
               </svg>
-              <h2 className='brand-text text-primary ms-1'>Vuexy</h2>
+              <h2 className='brand-text text-primary ms-1'>JRS</h2>
             </Link>
             <CardTitle tag='h4' className='mb-1'>
               Adventure starts here 🚀
@@ -85,7 +85,7 @@ const RegisterBasic = () => {
                 <Label className='form-label' for='register-email'>
                   Email
                 </Label>
-                <Input type='email' id='register-email' placeholder='john@example.com' />
+                <Input type='email' id='register-email' placeholder='joysarkarbile143p@gmail.com' />
               </div>
               <div className='mb-1'>
                 <Label className='form-label' for='register-password'>

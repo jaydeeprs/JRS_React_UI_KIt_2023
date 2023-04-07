@@ -68,10 +68,10 @@ const LoginBasic = () => {
                   </g>
                 </g>
               </svg>
-              <h2 className='brand-text text-primary ms-1'>Vuexy</h2>
+              <h2 className='brand-text text-primary ms-1'>JRS</h2>
             </Link>
             <CardTitle tag='h4' className='mb-1'>
-              Welcome to Vuexy! 👋
+              Welcome to JRS UI KIT! 👋
             </CardTitle>
             <CardText className='mb-2'>Please sign-in to your account and start the adventure</CardText>
             <Form className='auth-login-form mt-2' onSubmit={e => e.preventDefault()}>
@@ -79,7 +79,7 @@ const LoginBasic = () => {
                 <Label className='form-label' for='login-email'>
                   Email
                 </Label>
-                <Input type='email' id='login-email' placeholder='john@example.com' autoFocus />
+                <Input type='email' id='login-email' placeholder='joysarkarbile143p@gmail.com' autoFocus />
               </div>
               <div className='mb-1'>
                 <div className='d-flex justify-content-between'>

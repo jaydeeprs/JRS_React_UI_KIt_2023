@@ -23,7 +23,7 @@ const themeConfig = {
     footer: {
       type: 'static' // The type of the footer (static, sticky, or hidden)
     },
-    customizer: false, // Whether the layout customizer should be enabled
+    customizer: true, // Whether the layout customizer should be enabled
     scrollTop: true, // Whether the scroll to top button should be enabled
     toastPosition: 'top-right' // The position of the toast notifications (top-left, top-center, top-right, bottom-left, bottom-center, or bottom-right)
   }
