@@ -19,7 +19,7 @@ const ToastCustom = () => {
           <div className='d-flex align-items-center'>
             <Avatar img={avatarImg} className='me-1' />
             <div>
-              <p className='mb-0'>John Doe</p>
+              <p className='mb-0'>Jaydeep Roy Sarkar</p>
               <small>Sure! 8:30pm works great!</small>
             </div>
           </div>

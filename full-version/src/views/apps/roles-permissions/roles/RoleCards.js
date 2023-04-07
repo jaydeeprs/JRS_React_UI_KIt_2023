@@ -82,7 +82,7 @@ const data = [
       },
       {
         size: 'sm',
-        title: 'John Doe',
+        title: 'Jaydeep Roy Sarkar',
         img: avatar1
       },
       {

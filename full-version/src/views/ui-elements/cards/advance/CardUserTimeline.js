@@ -80,7 +80,7 @@ const data = [
       <div className='d-flex align-items-center'>
         <Avatar img={avatar9} />
         <div className='ms-50'>
-          <h6 className='mb-0'>John Doe (Client)</h6>
+          <h6 className='mb-0'>Jaydeep Roy Sarkar (Client)</h6>
           <span>CEO of Infibeam</span>
         </div>
       </div>

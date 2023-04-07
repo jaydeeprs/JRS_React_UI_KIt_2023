@@ -21,7 +21,7 @@ const data = {
   profileUser: {
     id: 11,
     avatar: avatar11,
-    fullName: 'John Doe',
+    fullName: 'Jaydeep Roy Sarkar',
     role: 'admin',
     about:
       'Dessert chocolate cake lemon drops jujubes. Biscuit cupcake ice cream bear claw brownie brownie marshmallow.',

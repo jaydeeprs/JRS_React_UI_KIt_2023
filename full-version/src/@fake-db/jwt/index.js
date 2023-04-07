@@ -9,8 +9,8 @@ const data = {
   users: [
     {
       id: 1,
-      fullName: 'John Doe',
-      username: 'johndoe',
+      fullName: 'Jaydeep Roy Sarkar',
+      username: 'jroysarkar',
       password: 'admin',
       avatar: avatar11,
       email: 'admin@demo.com',

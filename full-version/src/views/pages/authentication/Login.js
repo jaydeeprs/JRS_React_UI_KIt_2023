@@ -94,7 +94,7 @@ const Login = () => {
           ability.update(res.data.userData.ability)
           navigate(getHomeRouteForLoggedInUser(data.role))
           toast(t => (
-            <ToastContent t={t} role={data.role || 'admin'} name={data.fullName || data.username || 'John Doe'} />
+            <ToastContent t={t} role={data.role || 'admin'} name={data.fullName || data.username || 'Jaydeep Roy Sarkar'} />
           ))
         })
         .catch(err => setError('loginEmail', {

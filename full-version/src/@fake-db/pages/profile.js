@@ -329,7 +329,7 @@ const data = {
           },
           {
             img: portrait11,
-            username: 'John Doe'
+            username: 'Jaydeep Roy Sarkar'
           }
         ]
       },

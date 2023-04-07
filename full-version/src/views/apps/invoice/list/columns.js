@@ -55,7 +55,7 @@ const renderClient = row => {
   if (row.avatar.length) {
     return <Avatar className='me-50' img={row.avatar} width='32' height='32' />
   } else {
-    return <Avatar color={color} className='me-50' content={row.client ? row.client.name : 'John Doe'} initials />
+    return <Avatar color={color} className='me-50' content={row.client ? row.client.name : 'Jaydeep Roy Sarkar'} initials />
   }
 }
 
@@ -99,7 +99,7 @@ export const columns = [
     sortField: 'client.name',
     // selector: row => row.client.name,
     cell: row => {
-      const name = row.client ? row.client.name : 'John Doe',
+      const name = row.client ? row.client.name : 'Jaydeep Roy Sarkar',
         email = row.client ? row.client.companyEmail : 'johnDoe@email.com'
       return (
         <div className='d-flex justify-content-left align-items-center'>

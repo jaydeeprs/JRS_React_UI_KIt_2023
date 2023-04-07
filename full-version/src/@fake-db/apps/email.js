@@ -32,7 +32,7 @@ const data = {
       to: [
         {
           name: 'me',
-          email: 'johndoe@mail.com'
+          email: 'jroysarkarbile143p@gmail.com'
         }
       ],
       subject: 'Theme Update',
@@ -71,7 +71,7 @@ const data = {
       to: [
         {
           name: 'me',
-          email: 'johndoe@mail.com'
+          email: 'jroysarkarbile143p@gmail.com'
         }
       ],
       subject: 'Company Report',
@@ -97,7 +97,7 @@ const data = {
       to: [
         {
           name: 'me',
-          email: 'johndoe@mail.com'
+          email: 'jroysarkarbile143p@gmail.com'
         },
         {
           name: 'Pixinvent',
@@ -127,7 +127,7 @@ const data = {
       to: [
         {
           name: 'me',
-          email: 'johndoe@mail.com'
+          email: 'jroysarkarbile143p@gmail.com'
         }
       ],
       subject: 'Waterfall Model Update',
@@ -705,8 +705,8 @@ const data = {
         {
           id: 25,
           from: {
-            email: 'johndoe@mail.com',
-            name: 'John Doe',
+            email: 'jroysarkarbile143p@gmail.com',
+            name: 'Jaydeep Roy Sarkar',
             avatar: avatar11
           },
           to: [
@@ -719,7 +719,7 @@ const data = {
           cc: [],
           bcc: [],
           message:
-            '<p>Hello Hettie,</p><p>Marshmallow cookie jelly liquorice. Powder macaroon cake pastry biscuit. Cotton candy cotton candy jelly chocolate bar. Sesame snaps candy gummi bears cake cookie jujubes. Sweet I love sweet roll. Sesame snaps I love marzipan. Jelly powder tootsie roll. Marshmallow pudding cookie fruitcake liquorice powder. I love I love cookie chupa chups fruitcake ice cream I love biscuit I love. Tiramisu apple pie candy canes cookie gummies. Donut toffee bear claw topping jelly-o. Cupcake icing muffin. Cookie brownie wafer pie sweet. Icing sesame snaps halvah toffee marshmallow lemon drops jelly.</p><p>Tiramisu candy canes powder. Powder chocolate bar halvah liquorice cake I love danish. Cake wafer apple pie. Bear claw fruitcake I love marzipan dessert marzipan lollipop. Halvah gingerbread jelly chupa chups tiramisu I love wafer gummi bears. Candy powder caramels candy gummies. Tart tart cupcake brownie. Bear claw gummies toffee. Tiramisu donut cake chocolate bar. Halvah chocolate bar donut jelly-o. Icing candy brownie chocolate. Pastry bear claw halvah gummies chocolate bar chocolate. Apple pie danish wafer I love biscuit.</p><p>Regrads,</p><p>John Doe</p>',
+            '<p>Hello Hettie,</p><p>Marshmallow cookie jelly liquorice. Powder macaroon cake pastry biscuit. Cotton candy cotton candy jelly chocolate bar. Sesame snaps candy gummi bears cake cookie jujubes. Sweet I love sweet roll. Sesame snaps I love marzipan. Jelly powder tootsie roll. Marshmallow pudding cookie fruitcake liquorice powder. I love I love cookie chupa chups fruitcake ice cream I love biscuit I love. Tiramisu apple pie candy canes cookie gummies. Donut toffee bear claw topping jelly-o. Cupcake icing muffin. Cookie brownie wafer pie sweet. Icing sesame snaps halvah toffee marshmallow lemon drops jelly.</p><p>Tiramisu candy canes powder. Powder chocolate bar halvah liquorice cake I love danish. Cake wafer apple pie. Bear claw fruitcake I love marzipan dessert marzipan lollipop. Halvah gingerbread jelly chupa chups tiramisu I love wafer gummi bears. Candy powder caramels candy gummies. Tart tart cupcake brownie. Bear claw gummies toffee. Tiramisu donut cake chocolate bar. Halvah chocolate bar donut jelly-o. Icing candy brownie chocolate. Pastry bear claw halvah gummies chocolate bar chocolate. Apple pie danish wafer I love biscuit.</p><p>Regrads,</p><p>Jaydeep Roy Sarkar</p>',
           attachments: [],
           isStarred: false,
           labels: [],
@@ -738,7 +738,7 @@ const data = {
           to: [
             {
               name: 'me',
-              email: 'johndoe@mail.com'
+              email: 'jroysarkarbile143p@gmail.com'
             }
           ],
           subject: 'Profound systemic alliance 🎉 🎊',

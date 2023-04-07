@@ -23,7 +23,7 @@ const renderClient = row => {
       <Avatar
         initials
         className='me-1'
-        content={row.fullName || 'John Doe'}
+        content={row.fullName || 'Jaydeep Roy Sarkar'}
         color={row.avatarColor || 'light-primary'}
       />
     )

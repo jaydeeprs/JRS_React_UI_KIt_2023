@@ -61,7 +61,7 @@ const Address = props => {
                   control={control}
                   name='checkoutName'
                   render={({ field }) => (
-                    <Input id='checkoutName' placeholder='John Doe' invalid={errors.checkoutName && true} {...field} />
+                    <Input id='checkoutName' placeholder='Jaydeep Roy Sarkar' invalid={errors.checkoutName && true} {...field} />
                   )}
                 />
               </div>
@@ -205,7 +205,7 @@ const Address = props => {
       <div className='customer-card'>
         <Card>
           <CardHeader>
-            <CardTitle tag='h4'>John Doe</CardTitle>
+            <CardTitle tag='h4'>Jaydeep Roy Sarkar</CardTitle>
           </CardHeader>
           <CardBody>
             <CardText className='mb-0'>9447 Glen Eagles Drive</CardText>
