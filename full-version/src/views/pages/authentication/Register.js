@@ -170,7 +170,7 @@ const Register = () => {
                   name='username'
                   control={control}
                   render={({ field }) => (
-                    <Input autoFocus placeholder='johndoe' invalid={errors.username && true} {...field} />
+                    <Input autoFocus placeholder='jroysarkar' invalid={errors.username && true} {...field} />
                   )}
                 />
                 {errors.username ? <FormFeedback>{errors.username.message}</FormFeedback> : null}

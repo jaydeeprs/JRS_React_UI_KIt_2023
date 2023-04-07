@@ -79,7 +79,7 @@ const RegisterBasic = () => {
                 <Label className='form-label' for='register-username'>
                   Username
                 </Label>
-                <Input type='text' id='register-username' placeholder='johndoe' autoFocus />
+                <Input type='text' id='register-username' placeholder='jroysarkar' autoFocus />
               </div>
               <div className='mb-1'>
                 <Label className='form-label' for='register-email'>
