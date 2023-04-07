@@ -1,57 +1,52 @@
-// ** React Imports
+// React-related imports
 import { Suspense, lazy } from 'react'
 import { createRoot } from 'react-dom/client'
 import { BrowserRouter } from 'react-router-dom'
 
-// ** Redux Imports
+// Redux-related imports
 import { store } from './redux/store'
 import { Provider } from 'react-redux'
 
-// ** Intl, CASL & ThemeColors Context
+// Context-related imports for Intl, CASL, and ThemeColors
 import ability from './configs/acl/ability'
 import { AbilityContext } from './utility/context/Can'
 import { ThemeContext } from './utility/context/ThemeColors'
 
-// ** ThemeConfig
-import themeConfig from './configs/themeConfig'
-
-// ** Toast
-import { Toaster } from 'react-hot-toast'
-
-// ** i18n
-import './configs/i18n'
-
-// ** Spinner (Splash Screen)
-import Spinner from './@core/components/spinner/Fallback-spinner'
-
-// ** Ripple Button
-import './@core/components/ripple-button'
-
-// ** Fake Database
-import './@fake-db'
-
-// ** PrismJS
+// PrismJS and other styling-related imports
 import 'prismjs'
 import 'prismjs/themes/prism-tomorrow.css'
 import 'prismjs/components/prism-jsx.min'
-
-// ** React Perfect Scrollbar
 import 'react-perfect-scrollbar/dist/css/styles.css'
-
-// ** React Hot Toast Styles
 import '@styles/react/libs/react-hot-toasts/react-hot-toasts.scss'
-
-// ** Core styles
 import './@core/assets/fonts/feather/iconfont.css'
 import './@core/scss/core.scss'
 import './assets/scss/style.scss'
 
-// ** Service Worker
+// ThemeConfig import
+import themeConfig from './configs/themeConfig'
+
+// Toast-related imports
+import { Toaster } from 'react-hot-toast'
+
+// i18n import
+import './configs/i18n'
+
+// Spinner import for splash screen
+import Spinner from './@core/components/spinner/Fallback-spinner'
+
+// Ripple Button import
+import './@core/components/ripple-button'
+
+// Fake database import
+import './@fake-db'
+
+// Service Worker import
 import * as serviceWorker from './serviceWorker'
 
-// ** Lazy load app
+// Lazy loading of app
 const LazyApp = lazy(() => import('./App'))
 
+// Rendering of React app
 const container = document.getElementById('root')
 const root = createRoot(container)
 
